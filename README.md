@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A262B&height=120&section=header"/>
-
-<h1 align="center">BOOTCAMP JAVA - DIO</h1>
-<h5 align="center">Repositório para armazenar todo o conteúdo do Bootcamp Java DIO 🖥️</h5>&nbsp;
 
 <br>
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> BOOTCAMP JAVA - DIO</span>
+</h1>
+
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático 🖥️
